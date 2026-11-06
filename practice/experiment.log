@@ -1,0 +1,6 @@
+[INFO] Starting OpenBioAI
+[INFO] Loading dataset
+[INFO] Dataset loaded successfully
+[WARNING] Missing values detected
+[ERROR] Missing required column: gene_id
+[INFO] Experiment stopped

@@ -1,0 +1,2 @@
+[WARNING] Missing values detected
+[ERROR] Missing required column: gene_id

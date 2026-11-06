@@ -1,0 +1,2 @@
+APOE,22.1,control
+APOE,27.5,treated

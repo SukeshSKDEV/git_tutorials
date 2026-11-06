@@ -1,0 +1,9 @@
+gene,expression,condition
+APP,12.4,control
+PSEN1,8.7,control
+MAPT,15.2,control
+APP,18.9,treated
+PSEN1,10.3,treated
+MAPT,11.6,treated
+APOE,22.1,control
+APOE,27.5,treated
