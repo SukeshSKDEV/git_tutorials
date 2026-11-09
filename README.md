@@ -1,2 +1,3 @@
-OpenBioAI - AI for Biological Research
-OpenBioAI is an open-source project exploring AI for biological research.
+Git Tutorial
+OpenBioAI is an open-source project to understand git and its capabilities
+
