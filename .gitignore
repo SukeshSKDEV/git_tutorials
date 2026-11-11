@@ -19,3 +19,5 @@ data/raw/
 
 # Generated outputs
 outputs/
+
+.pytest_cache/
