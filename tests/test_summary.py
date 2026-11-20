@@ -14,4 +14,3 @@ def test_calculate_average_with_decimals():
 def test_empty_values_raise_error():
     with pytest.raises(ValueError, match="Values cannot be empty"):
         calculate_average([])
-def test_empty_values_raise_e
